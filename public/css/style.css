@@ -1,0 +1,18 @@
+body {
+    color: green;
+    background-color: black;
+}
+
+.boy {
+    font-size: xx-large;
+}
+
+.girl {
+    color: pink;
+}
+
+.pet {
+    text-decoration: underline;
+    text-decoration-color: red;
+    
+}
